@@ -3,7 +3,6 @@ import "./App.css";
 import NavBar from "./components/NavBar";
 import GameGrid from "./components/GameGrid";
 import GenreList from "./components/GenreList";
-import useGenres from "./hooks/useGenres";
 
 function App() {
   return (
